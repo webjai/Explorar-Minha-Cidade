@@ -1,6 +1,6 @@
 <h1>O Explorar Minha Cidade</h1> 
 
-<img src="https://github.com/webjai/Explorar-Minha-Cidade/blob/main/assets/explore%20sua%20cidade.png" />
+<a href="https://webjai.com.br/projetos/responsivo/"><img src="https://github.com/webjai/Explorar-Minha-Cidade/blob/main/assets/explore%20sua%20cidade.png" /></a>
 
 ## O Projeto
 
